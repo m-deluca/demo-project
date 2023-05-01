@@ -1,3 +1,5 @@
+![alt text](./images/mountain.jpg "Peak of Mt. Elbert")
+
 # demo-project
 This repo is for demonstrating how to set up a project with branching
 
